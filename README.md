@@ -1,6 +1,6 @@
 This is my ML project using Unsupervised learning for Online retail Customer analysis
 
-1. The unzipped folder name is - AIT580_Team2_Ghosh_Sonparote_sys
+1. The unzipped folder name is - AIT580_Team2_Ghosh_Sonparote_sys - Ignore this if it is in github
 2. It consist of following files
 	2.1 Online Retail Project.Rmd - The main project file with R Markdown code
         2.2 Online-Retail-Project.html  - HTML file with result of the above code in Rmd file
